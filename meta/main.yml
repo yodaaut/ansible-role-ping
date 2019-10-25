@@ -1,1 +1,10 @@
 ---
+galaxy_info:
+  author: yodaaut
+  description: testing
+  
+  license: MIT
+  
+  galaxy_tags: []
+  
+dependencies: []
